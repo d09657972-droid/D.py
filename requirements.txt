@@ -1,0 +1,5 @@
+requests
+pandas
+numpy
+mplfinance
+python-telegram-bot==20.3
